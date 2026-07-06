@@ -1,0 +1,6 @@
+{
+  "name": "Escola Livre Simulator",
+  "description": "Um simulador de vida escolar multiplayer em tempo real com customização de personagens, reputações com facções/cliques, chat integrado, eventos dinâmicos e decisões de assistir ou vagar aulas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
